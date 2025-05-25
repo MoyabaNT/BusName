@@ -10,7 +10,7 @@ const NavBar = () => {
   };
 
   return (
-    <div className='bg-zinc-800 text-white'>
+    <div className='bg-slate-950 text-white'>
       <div className='flex items-center justify-between px-4 py-3 max-w-4xl mx-auto'>
         <div className='flex items-center'>
           <img src={logo} className='w-10 h-10 sm:w-12 sm:h-12 bg-zinc-500/35 rounded-full' alt='Logo' />

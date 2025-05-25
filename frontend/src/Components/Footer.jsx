@@ -13,7 +13,7 @@ const Footer = () => {
             <h1 className='text-center mt-4 font-bold text-lg text-pink-400'>Quick LInks</h1>
             <ul className='flex justify-center gap-4 p-4'>
                 <li className=''><Link>Home</Link></li>
-                <li><Link>About</Link></li>
+                <li><Link to='/About'>About</Link></li>
                 <li><Link>Products</Link></li>
                 <li><Link>Contact</Link></li>
             </ul>
